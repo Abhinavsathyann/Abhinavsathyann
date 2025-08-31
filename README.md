@@ -1,7 +1,5 @@
 # Hi, I'm Abhinav K 👋
 
-<!-- Profile README with Advanced Animated Icons & Unique Styling -->
-
 ### 🚀 Front‑end Developer | 🎓 Student @ Kuttukaran Polytechnic College | 🧪 Web Dev Intern @ SpeakerBox Media
 
 I build smooth, modern web experiences with **React**, **Next.js**, **Tailwind CSS**, and a sprinkle of **Framer Motion**. I also love crafting mobile‑style transitions/effects and polishing content for social.
@@ -64,9 +62,9 @@ I build smooth, modern web experiences with **React**, **Next.js**, **Tailwind C
 ## 📊 At a Glance
 
 <p>
-  <a href="https://github.com/<your-username>?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/<your-username>?label=Followers&style=flat" /></a>
-  <a href="https://github.com/<your-username>"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=<your-username>&style=flat" /></a>
-  <a href="https://github.com/<your-username>?tab=repositories"><img alt="Public Repos" src="https://img.shields.io/badge/Public%20Repos-Auto-blue" /></a>
+  <a href="https://github.com/Abhinavsathyann?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Abhinavsathyann?label=Followers&style=flat" /></a>
+  <a href="https://github.com/Abhinavsathyann"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Abhinavsathyann&style=flat" /></a>
+  <a href="https://github.com/Abhinavsathyann?tab=repositories"><img alt="Public Repos" src="https://img.shields.io/badge/Public%20Repos-Auto-blue" /></a>
 </p>
 
 ## 🧩 What I'm Learning Now
@@ -97,7 +95,7 @@ If my work helped you, consider ⭐️ starring a repo or sharing feedback via i
 
 ### Quick Setup Checklist
 
-* [ ] Create repo: **`<your-username>/<your-username>`**
-* [ ] Add this `README.md`
-* [ ] Replace `<your-username>` and links
+* [x] Create repo: **`Abhinavsathyann/Abhinavsathyann`**
+* [x] Add this `README.md`
+* [ ] Replace personal links (`<your-linkedin>`, `<your-site>`, `<your-email>`)
 * [ ] Commit & push — your profile shows this animated version
