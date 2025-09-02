@@ -90,18 +90,3 @@ I build smooth, modern web experiences with **React**, **Next.js**, **Tailwind C
 If my work helped you, consider ⭐️ starring a repo or sharing feedback via issues/PRs. I’m always open to collaboration.
 
 ---
-
-### 🌀 Notes on Animations in README
-
-* GitHub supports **GIFs & SVGs**, but **not JS‑based Lottie/Lordicon** directly.
-* For unique 3D icons: Convert Lottie/JSON animations → GIF and embed as `![alt](./assets/icon.gif)`
-* For portfolio sites: embed **Lottie/Lordicon** scripts for crisp vector animations.
-
----
-
-### ✅ Setup Checklist
-
-* [x] Create repo: **`Abhinavsathyann/Abhinavsathyann`**
-* [x] Add this `README.md`
-* [ ] Replace personal links (`<your-linkedin>`, `<your-site>`, `<your-email>`)
-* [ ] Commit & push — your profile shows this animated version
