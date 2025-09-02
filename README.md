@@ -1,37 +1,120 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# Hi, I'm Abhinav K 👋
 
-###
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=28\&duration=3000\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=700\&lines=Hi%2C+I'm+Abhinav+K;Front-End+Developer;React+%7C+Next.js+%7C+Tailwind+%7C+Framer+Motion;Always+learning+new+things!)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+### 🚀 Front‑end Developer | 🎓 Student @ Kuttukaran Polytechnic College | 🧪 Web Dev Intern @ SpeakerBox Media
 
-###
+I build smooth, modern web experiences with **React**, **Next.js**, **Tailwind CSS**, and a sprinkle of **Framer Motion**. I also love crafting mobile‑style transitions/effects and polishing content for social.
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-###
+## 🔎 Current Focus
+
+* Building performant **React/Next.js** apps with clean UI systems
+* Motion/scroll experiences (Lenis, Framer Motion)
+* Managing KPTC **E‑IEDC** website & GitHub
+
+## 🧰 Tech Toolkit (Animated Icons)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,tailwind,git,github,vercel,nodejs" height="50" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" />
+</p>
+
+> ⚡️ Animated Icons Tip: GitHub doesn’t run JavaScript in README, so use GIF/APNG for **animated icons**. For portfolio websites, use **Lottie/Lordicon** for full interactivity.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+## ✨ Highlights
+
+* 🚀 Auto‑scrolling **space‑launch** themed demo with React + Lenis + Framer Motion
+* 🎓 Campus initiatives with **KPTC E‑IEDC** — events, student portals, and resources
+* 🎬 Content polishing: transitions, premium fonts & stickers for IG posts
+
+## 🖥️ Featured Projects
+
+* **KPTC E‑IEDC Website** — Official site & portals (Admin + Students)
+
+  * Admin: manage users, events, settings
+  * Students: resources + event registration
+  * Live: [https://kptciedc.vercel.app/](https://kptciedc.vercel.app/)
+
+* **Smooth Motion Lab** — Components & patterns for delightful UX (WIP)
+
+> 💡 Want to collaborate or need a demo? Ping me!
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+## 🌀 Animated Icons & Badges
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/SvQzkTQb3ZwK0kR5Hh/giphy.gif" width="60" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+## 📊 At a Glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinavsathyann&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavsathyann&layout=compact&theme=radical" height="160"/>
+</p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhinavsathyann\&theme=react-dark\&hide_border=true)
+
+![3D Contribution Graph](https://github.com/Abhinavsathyann/Abhinavsathyann/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+## 🧩 What I'm Learning Now
+
+* Advanced animations (staggered scroll, parallax, 3D‑ish transforms)
+* Clean component APIs + accessibility
+* Content systems and design tokens
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&style=for-the-badge)](your-linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?logo=vercel\&style=for-the-badge)](your-site)
+[![Mail](https://img.shields.io/badge/Email-Contact-orange?logo=gmail\&style=for-the-badge)](mailto:<your-email>)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+## ☕ Support / Contact
+
+If my work helped you, consider ⭐️ starring a repo or sharing feedback via issues/PRs. I’m always open to collaboration.
+
+---
+
+### 🌀 Notes on Animations in README
+
+* GitHub supports **GIFs & SVGs**, but **not JS‑based Lottie/Lordicon** directly.
+* For unique 3D icons: Convert Lottie/JSON animations → GIF and embed as `![alt](./assets/icon.gif)`
+* For portfolio sites: embed **Lottie/Lordicon** scripts for crisp vector animations.
+
+---
+
+### ✅ Setup Checklist
+
+* [x] Create repo: **`Abhinavsathyann/Abhinavsathyann`**
+* [x] Add this `README.md`
+* [ ] Replace personal links (`<your-linkedin>`, `<your-site>`, `<your-email>`)
+* [ ] Commit & push — your profile shows this animated version
