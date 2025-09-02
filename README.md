@@ -12,7 +12,6 @@ I build smooth, modern web experiences with **React**, **Next.js**, **Tailwind C
 
 * Building performant **React/Next.js** apps with clean UI systems
 * Motion/scroll experiences (Lenis, Framer Motion)
-* Managing KPTC **E‑IEDC** website & GitHub
 
 ## 🧰 Tech Toolkit (Animated Icons)
 
