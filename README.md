@@ -40,8 +40,6 @@ I build smooth, modern web experiences with **React**, **Next.js**, **Tailwind C
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-## 🌀 Animated Icons & Badges
-
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="60" />
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" />
