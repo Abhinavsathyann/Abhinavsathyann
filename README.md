@@ -36,11 +36,11 @@ I build smooth, modern web experiences with **React**, **Next.js**, **Tailwind C
 
 ## 🖥️ Featured Projects
 
-* **KPTC E‑IEDC Website** — Official site & portals (Admin + Students)
+* **A
 
   * Admin: manage users, events, settings
   * Students: resources + event registration
-  * Live: [https://kptciedc.vercel.app/](https://kptciedc.vercel.app/)
+  * Live: 
 
 * **Smooth Motion Lab** — Components & patterns for delightful UX (WIP)
 
