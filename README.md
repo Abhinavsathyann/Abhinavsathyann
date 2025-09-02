@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=28\&duration=3000\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=700\&lines=Hi%2C+I'm+Abhinav+K;Front-End+Developer;React+%7C+Next.js+%7C+Tailwind+%7C+Framer+Motion;Always+learning+new+things!)
 
-### 🚀 Front‑end Developer | 🎓 Student @ Kuttukaran Polytechnic College | 🧪 Web Dev Intern @ SpeakerBox Media
+### 🚀 Front‑end Developer | 
 
 I build smooth, modern web experiences with **React**, **Next.js**, **Tailwind CSS**, and a sprinkle of **Framer Motion**. I also love crafting mobile‑style transitions/effects and polishing content for social.
 
