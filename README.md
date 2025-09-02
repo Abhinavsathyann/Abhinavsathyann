@@ -36,14 +36,6 @@ I build smooth, modern web experiences with **React**, **Next.js**, **Tailwind C
 
 ## 🖥️ Featured Projects
 
-* **A
-
-  * Admin: manage users, events, settings
-  * Students: resources + event registration
-  * Live: 
-
-* **Smooth Motion Lab** — Components & patterns for delightful UX (WIP)
-
 > 💡 Want to collaborate or need a demo? Ping me!
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
