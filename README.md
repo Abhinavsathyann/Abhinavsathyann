@@ -32,7 +32,6 @@ I build smooth, modern web experiences with **React**, **Next.js**, **Tailwind C
 ## ✨ Highlights
 
 * 🚀 Auto‑scrolling **space‑launch** themed demo with React + Lenis + Framer Motion
-* 🎓 Campus initiatives with **KPTC E‑IEDC** — events, student portals, and resources
 * 🎬 Content polishing: transitions, premium fonts & stickers for IG posts
 
 ## 🖥️ Featured Projects
