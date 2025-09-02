@@ -26,7 +26,6 @@ I build smooth, modern web experiences with **React**, **Next.js**, **Tailwind C
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" />
 </p>
 
-> ⚡️ Animated Icons Tip: GitHub doesn’t run JavaScript in README, so use GIF/APNG for **animated icons**. For portfolio websites, use **Lottie/Lordicon** for full interactivity.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
